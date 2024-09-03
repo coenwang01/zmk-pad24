@@ -1,3 +1,7 @@
 include:
   - board: nice_nano_v2
-    shield: kawvin_pad24
+    shield: kawvin_pad24_bothhand
+  - board: nice_nano_v2
+    shield: kawvin_pad24_lefthand
+  - board: nice_nano_v2
+    shield: kawvin_pad24_righthand
