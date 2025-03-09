@@ -1,6 +1,7 @@
+layout: {zmk_keyboard: kawvin_pad24_bothhand}
 layers:
   default:
-  - ESC
+  - Ctl+A
   - TAB
   - BSPC
   - '='
